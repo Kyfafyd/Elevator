@@ -1,7 +1,7 @@
-## Elevator
+## Introduction
 The elevator's current state is represented with two enumerated types and two structures
 
-## Functions:
+## Function
 - Initialization of elevator status (elevator is on the first floor and elevator door is closed)
 
 - Select whether the elevator continues to operate
